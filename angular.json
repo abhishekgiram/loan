@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "loan"
+    }
+  },
+  "defaultProject": "loan",
+  "cli": {
+    "analytics": "e43572e0-5027-4e80-ad0d-16d3d33cb71e"
+  }
 }
